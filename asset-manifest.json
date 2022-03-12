@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.930f0bf3.css",
+    "main.js": "/static/js/main.3eda9dae.js",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/PhotoAdd.svg": "/static/media/PhotoAdd.84e98cfb7ebff83acc840fb2d5ddc693.svg",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/Setting.svg": "/static/media/Setting.41f128e391131b2bcda98ff6def72be4.svg",
+    "static/media/share.svg": "/static/media/share.08333bda9d7f1aa45f9d79cee58180b8.svg",
+    "static/media/Add.svg": "/static/media/Add.1351335be497eda8fbecd3f0ada26f0b.svg",
+    "static/media/like.svg": "/static/media/like.704ff33b37dbd44164defac2777596ac.svg",
+    "static/media/Heart.svg": "/static/media/Heart.bb109b29c1ca6e8e7a185b6418bc42ae.svg",
+    "static/media/Message.svg": "/static/media/Message.3bd7a160731a932d096c907c1e7c775f.svg",
+    "static/media/messenger.svg": "/static/media/messenger.3bd7a160731a932d096c907c1e7c775f.svg",
+    "static/media/Profile.svg": "/static/media/Profile.8a2114fc3095b69a97b7c71b4641235e.svg",
+    "static/media/save.svg": "/static/media/save.5fe4fe8329e1c514c302d76129c94619.svg",
+    "index.html": "/index.html",
+    "static/media/Explore.svg": "/static/media/Explore.f37f76d68a13f5645e2a32139ddcf50a.svg",
+    "static/media/smile.svg": "/static/media/smile.272d072810483052b2bdaeac76933184.svg",
+    "static/media/threedots.svg": "/static/media/threedots.92d028583e31298d9b193a296880f12d.svg",
+    "static/media/Switch.svg": "/static/media/Switch.bf573365b3c0e38b43c0da7089355647.svg",
+    "static/media/redHeart.svg": "/static/media/redHeart.3a2cab15e4a02b3205cf052fb2648dfd.svg",
+    "static/media/comment.svg": "/static/media/comment.fdf895bfb2d81bc62a823d1341c32db4.svg",
+    "static/media/Home.svg": "/static/media/Home.6a978a26c48bc672716e7ea28d35ddd3.svg",
+    "static/media/BlackSave.svg": "/static/media/BlackSave.f8fa70bb7e1de939072a2bdf9dbdd4ed.svg",
+    "main.930f0bf3.css.map": "/static/css/main.930f0bf3.css.map",
+    "main.3eda9dae.js.map": "/static/js/main.3eda9dae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.930f0bf3.css",
+    "static/js/main.3eda9dae.js"
+  ]
+}
